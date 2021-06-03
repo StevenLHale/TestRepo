@@ -1,0 +1,9 @@
+{
+	"name": "sthaleFeatureTest2",
+	"location": "eastus2euap",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a511b2a2-2475-4eea-81c2-b478e1efdd4c",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
