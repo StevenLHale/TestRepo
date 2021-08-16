@@ -1,0 +1,9 @@
+{
+	"name": "PayAsYouGoFactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79365437-60fc-45c0-8426-2ade6315e932",
+		"tenantId": "b7da05f4-670a-49e2-8a86-7d96bf897526"
+	}
+}
