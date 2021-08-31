@@ -1,0 +1,9 @@
+{
+	"name": "sthaleTestFactory4",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6251b9d-95ae-4939-b8f2-a289d77aa3de",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
