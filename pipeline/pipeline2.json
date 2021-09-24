@@ -16,7 +16,18 @@
 					{
 						"name": "ccc"
 					}
-				]
+				],
+				"typeProperties": {
+					"variableName": ""
+				}
+			},
+			{
+				"name": "Execute Pipeline1",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"typeProperties": {
+					"waitOnCompletion": true
+				}
 			}
 		],
 		"annotations": []
