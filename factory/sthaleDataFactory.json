@@ -1,0 +1,9 @@
+{
+	"name": "sthaleDataFactory",
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fb7e1c8-711e-42e9-9ebd-b466267d3ab8",
+		"tenantId": "3d0a72e2-8b06-4528-98df-1391c6f12c11"
+	}
+}
