@@ -1,5 +1,10 @@
 {
 	"name": "sthaleDataFactory",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
 	"location": "chinanorth3",
 	"identity": {
 		"type": "SystemAssigned",
