@@ -1,0 +1,14 @@
+{
+	"name": "sthaleTestFactory2",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfafc7b7-0737-46c9-8805-8a594f2d63f0",
+		"tenantId": "3d0a72e2-8b06-4528-98df-1391c6f12c11"
+	}
+}
